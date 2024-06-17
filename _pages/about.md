@@ -11,9 +11,11 @@ profile:
   more_info:
 
 news: false # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
-blog: true
----
 
-Welcome to my website! You'll find my blog posts as well as a personal game development journal.
+---
+#### Welcome to my website!
+I'm a computer science graduate, self-taught game developer, ex-cloud engineer, and Brazilian Jiu Jitsu/Muay Thai practitioner.\
+This website is my journal documenting my game development journey, showing off cool features I made in Godot Engine. \
+Feel free to check out my blog posts and projects to see what I'm working on!
